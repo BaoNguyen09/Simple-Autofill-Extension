@@ -8,5 +8,10 @@
         "32": "images/icon-32.png",
         "48": "images/icon-48.png",
         "128": "images/icon-128.png"
-    }
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Simple Autofill Extension"
+    },
+    "permissions": ["scripting", "activeTab"]
 }
